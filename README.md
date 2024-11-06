@@ -47,6 +47,6 @@ $ python -m pip install -r requirements.txt
 $ python main.py
 ```
 
-## Additional Informations
+## Additional Informationsd
 General Informations:
 - If you find any malfunction, join my [Discord Server](https://discord.gg/PKR7nM9j9U).
